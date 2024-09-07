@@ -1,4 +1,4 @@
-//21BCE2242
+
     #include <bits/stdc++.h>
     #define col 5
     #define _s 30
@@ -653,5 +653,4 @@
 
 
     return 0;
-    }
-//Dhruv Trehan    
+    }  
